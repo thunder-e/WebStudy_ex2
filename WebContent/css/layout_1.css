@@ -1,0 +1,23 @@
+@charset "UTF-8";
+/**************** header ****************/
+.header {
+	width: 100%;
+	height: 100px;
+	background-color: black;
+}
+
+/**************** main ****************/
+.main {
+	width: 65%;
+	height: 800px;
+	background-color: blue;
+	margin: 70px auto 150px auto;
+
+}
+
+/**************** footer ****************/
+.footer {
+	width: 100%;
+	height: 150px;
+	background-color: green;
+}
